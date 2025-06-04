@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist/joumon/縄文時代.md",
+                "file": "hist/joumon/旧石器時代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "縄文時代"
+              "title": "旧石器時代"
             }
           }
         ]
@@ -214,12 +214,13 @@
   },
   "active": "b4c80c2155c4dc89",
   "lastOpenFiles": [
-    "hist/joumon/無題のファイル.md",
-    "hist/joumon/縄文時代.md",
-    "hist/bc/紀元前の世界.md",
     "hist/bc/紀元前の日本.md",
-    "hist/bc/四大文明.md",
+    "hist/joumon/旧石器時代.md",
+    "hist/joumon/石器時代.md",
+    "hist/joumon/縄文時代.md",
     "hist/歴史.md",
+    "hist/bc/紀元前の世界.md",
+    "hist/bc/四大文明.md",
     "hist/bc",
     "hist/joumon",
     "index.md",

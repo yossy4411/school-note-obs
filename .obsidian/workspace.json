@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist/歴史.md",
+                "file": "hist/bc/紀元前の世界.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "歴史"
+              "title": "紀元前の世界"
             }
           }
         ]
@@ -212,12 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f2b6f6480018498",
+  "active": "b4c80c2155c4dc89",
   "lastOpenFiles": [
+    "hist/bc/紀元前の日本.md",
+    "hist/bc/紀元前の世界.md",
+    "hist/歴史.md",
+    "hist/bc",
+    "hist/joumon/縄文時代.md",
     "hist/joumon",
     "index.md",
     "README.md",
-    "hist/歴史.md",
     "geom",
     "home",
     "tech",

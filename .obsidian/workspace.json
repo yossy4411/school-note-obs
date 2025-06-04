@@ -11,14 +11,14 @@
             "id": "b4c80c2155c4dc89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "READMEへのバックリンク"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "READMEからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,22 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
-            }
-          },
-          {
-            "id": "faff2fc27e511851",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "READMEのアウトライン"
             }
           },
           {
@@ -185,7 +178,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "452b0b16ae0c6139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faff2fc27e511851",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,8 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c77b2c5c6d81bb4",
+  "active": "b4c80c2155c4dc89",
   "lastOpenFiles": [
-    "README.md"
+    "index.md",
+    "README.md",
+    "hist/歴史.md",
+    "geom",
+    "home",
+    "tech",
+    "hist",
+    "japn"
   ]
 }

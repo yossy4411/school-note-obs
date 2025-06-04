@@ -11,14 +11,14 @@
             "id": "b4c80c2155c4dc89",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "hist/歴史.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "歴史"
             }
           }
         ]

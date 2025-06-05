@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist/yayoi/邪馬台国.md",
+                "file": "hist/yayoi/弥生時代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "邪馬台国"
+              "title": "弥生時代"
             }
           }
         ]
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4c80c2155c4dc89",
+  "active": "5c77b2c5c6d81bb4",
   "lastOpenFiles": [
     "hist/yayoi/弥生時代.md",
     "hist/yayoi/邪馬台国.md",

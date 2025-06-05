@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hist/joumon/縄文時代.md",
+                "file": "hist/yayoi/弥生時代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "縄文時代"
+              "title": "弥生時代"
             }
           }
         ]
@@ -214,11 +214,11 @@
   },
   "active": "b4c80c2155c4dc89",
   "lastOpenFiles": [
-    "hist/joumon/打製石器.md",
+    "hist/joumon/縄文時代.md",
     "hist/yayoi/弥生時代.md",
+    "hist/joumon/打製石器.md",
     "hist/bc/四大文明.md",
     "hist/yayoi",
-    "hist/joumon/縄文時代.md",
     "hist/joumon/旧石器時代.md",
     "images",
     "Pasted image 20250604211716.png",
